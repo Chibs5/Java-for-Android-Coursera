@@ -1,2 +1,2 @@
 # Java-for-Android-Coursera
-NJotes on related to the coourse
+Notes related to the coourse
